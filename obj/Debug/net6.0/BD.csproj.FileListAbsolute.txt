@@ -1,0 +1,14 @@
+C:\Users\Juan Garcia\source\repos\BD\bin\Debug\net6.0\BD.deps.json
+C:\Users\Juan Garcia\source\repos\BD\bin\Debug\net6.0\BD.runtimeconfig.json
+C:\Users\Juan Garcia\source\repos\BD\bin\Debug\net6.0\BD.dll
+C:\Users\Juan Garcia\source\repos\BD\bin\Debug\net6.0\BD.pdb
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.csproj.AssemblyReference.cache
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.AssemblyInfoInputs.cache
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.AssemblyInfo.cs
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.dll
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\refint\BD.dll
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.pdb
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\BD.genruntimeconfig.cache
+C:\Users\Juan Garcia\source\repos\BD\obj\Debug\net6.0\ref\BD.dll
